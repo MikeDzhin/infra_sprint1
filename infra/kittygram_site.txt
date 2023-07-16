@@ -1,7 +1,6 @@
-IP: 158.160.26.215
-
+IP:158.160.26.215;
 name_taski: https://taskitaskitaski.servebeer.com;
-name_kittygram: https://kittygramonlyfans.servebeer.com;
-
+hame_kittygram: https://kittygramonlyfans.servebeer.com;
 login: zipperpocket;
-password: 9205618186
+password: 9205618186;
+
